@@ -8,6 +8,7 @@ Dataset:
 The CrystalPool dataset contains sales location, price, names of representatives, and many more. The dataset can be found in the link:
 [CrystalPools.xlsx](https://github.com/dieujusted/CrystalPools-Tableau-Viz/files/6362448/CrystalPools.xlsx)
 
+*Link to Tableau aacount: https://public.tableau.com/profile/dina.dieujuste#!/
 
 Best Performing Rep:
 ![2021-04-22 (2)](https://user-images.githubusercontent.com/81595517/115813893-11a5e600-a3c2-11eb-99c9-0b0450f6c60b.png)
